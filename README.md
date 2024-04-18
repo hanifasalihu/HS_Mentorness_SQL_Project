@@ -1,5 +1,6 @@
 # HS_Mentorness_SQL_Project
 An internship project using SQL to analyse a sales dataset provided by Mentorness.
+![image](https://github.com/hanifasalihu/HS_Mentorness_SQL_Project/assets/157046638/001a94d9-df2f-4efe-be12-9ea78b24dc5c)
 
 
 ## Table of Content
