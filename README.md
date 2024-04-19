@@ -1,5 +1,7 @@
 # HS_Mentorness_SQL_Project
+
 An internship project using SQL to analyse a sales dataset provided by Mentorness.
+
 ![image](https://github.com/hanifasalihu/HS_Mentorness_SQL_Project/assets/157046638/001a94d9-df2f-4efe-be12-9ea78b24dc5c)
 
 
@@ -32,6 +34,7 @@ This project aims to gain insight into the data, explore the sales data from cus
 
 The dataset was obtained from the google link provided by Mentorness via email. The sales dataset comprises five interconnected tables:customer, delivery person, pincode, product & orders.
 
+[Download Here]https://github.com/hanifasalihu/HS_Mentorness_SQL_Project/blob/main/Mentorness-Sales_Dataset.xlsx
 
 ## Process Workflow
 
@@ -94,6 +97,7 @@ The dataset was obtained from the google link provided by Mentorness via email. 
 
 ![image](https://github.com/hanifasalihu/HS_Mentorness_SQL_Project/assets/157046638/27280120-00fc-400b-b9f7-8fe0c89631f5)
 
+[Download Here](https://github.com/hanifasalihu/HS_Mentorness_SQL_Project/blob/main/Mentorness_SalesDatabse_SQL_Query.sql)
 
 
 ### Data Vizualization
